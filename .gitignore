@@ -1,0 +1,8 @@
+# .gitignore: exclude git tracking
+
+*.[oa]
+*~
+tmp/
+*.lnk
+*.swp
+test/*
